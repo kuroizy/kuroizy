@@ -1,23 +1,35 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">hey, i'm félix  👋</h1>
 
 <p align="left">
-My name is Ryan and I'm a Web Developer from Brazil.
+just someone who enjoys building things, breaking them, and learning from the process.
 </p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">about me</h2>
 
 <p align="left">
-☾ Creating bugs since 2025.<br>
-📚 I'm currently learning JavaScript, TypeScript and React.<br>
-🎯 Goal: become a better developer every day.<br>
-🎮 I enjoy anime, games and building random projects.
+🖤 creating bugs on purpose (sometimes).<br>
+💻 currently learning web development & software engineering.<br>
+🌙 fan of clean UIs, dark themes and minimalism.<br>
+🧠 interested in psychology, technology and how people think.<br>
+🎮 gaming when i'm not coding.<br>
+📖 tokyo ghoul will always have a special place here.
 </p>
 
 ###
 
-<h2 align="left">Favorite quote</h2>
+<h2 align="left">currently</h2>
+
+<p align="left">
+⚡ building random projects.<br>
+📚 improving my JavaScript ecosystem knowledge.<br>
+🚀 trying to become better than yesterday.
+</p>
+
+###
+
+<h2 align="left">favorite quote</h2>
 
 <p align="left">
 <i>"It's better to be hurt than to hurt others."</i><br>
@@ -26,18 +38,25 @@ My name is Ryan and I'm a Web Developer from Brazil.
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">i code with</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" />
 </div>
+
+###
+
+<p align="center">
+<code>localhost://676767</code><br>
+<i>stay curious.</i>
+</p>
