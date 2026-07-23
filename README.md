@@ -1,62 +1,74 @@
-<h1 align="left">hey, i'm ryan 👋</h1>
+<h1 align="left">hey, i'm ryan ☾</h1>
 
 <p align="left">
-just someone who enjoys building things, breaking them, and learning from the process.
+building random ideas into real projects.<br>
+learning, breaking, fixing, repeating.
 </p>
 
 ###
 
-<h2 align="left">about me</h2>
+<h2 align="left">✦ about me</h2>
 
 <p align="left">
-🖤 creating bugs on purpose (sometimes).<br>
-💻 currently learning web development & software engineering.<br>
-🌙 fan of clean UIs, dark themes and minimalism.<br>
-🧠 interested in psychology, technology and how people think.<br>
-🎮 gaming when i'm not coding.<br>
-📖 tokyo ghoul will always have a special place here.
+☾ web development & software engineering<br>
+𖤐 currently exploring the javascript ecosystem<br>
+✧ passionate about minimal design & clean interfaces<br>
+◈ anime, games and late-night coding sessions<br>
+𓆩♡𓆪 always learning something new
 </p>
 
 ###
 
-<h2 align="left">currently</h2>
+<h2 align="left">☄ currently</h2>
 
 <p align="left">
-⚡ building random projects.<br>
-📚 improving my JavaScript ecosystem knowledge.<br>
-🚀 trying to become better than yesterday.
+⌘ improving my frontend skills<br>
+⚘ building personal projects<br>
+☕ turning coffee into code
 </p>
 
 ###
 
-<h2 align="left">favorite quote</h2>
+<h2 align="left">☾ favorite quote</h2>
 
 <p align="left">
 <i>"It's better to be hurt than to hurt others."</i><br>
-— Ken Kaneki
+<b>— Ken Kaneki</b>
 </p>
 
 ###
 
-<h2 align="left">i code with</h2>
+<h2 align="left">✦ i code with</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="react"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="nextjs"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="nodejs"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="42" alt="nestjs"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css"/>
 </div>
 
 ###
 
-<p align="center">
-<code>localhost://676767</code><br>
-<i>stay curious.</i>
-</p>
+<div align="center">
+
+```txt
+         ☾
+
+   「 stay curious. 」
+
+localhost://676767
+
+```
+
+</div>
