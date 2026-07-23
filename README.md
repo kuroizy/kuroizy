@@ -56,7 +56,4 @@ just someone who enjoys building things, breaking them, and learning from the pr
 
 ###
 
-<p align="center">
-<code>localhost://676767</code><br>
-<i>stay curious.</i>
-</p>
+
