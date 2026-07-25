@@ -52,6 +52,8 @@ just someone who enjoys building things, breaking them, and learning from the pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" />
+  <img src="https://x.com/i/status/2081093010071466365" height="40 />
+  
 </div>
 
 ###
